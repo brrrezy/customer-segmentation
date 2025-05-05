@@ -11,6 +11,7 @@ Customer segmentation is a key marketing strategy that enables personalized enga
 ## 📁 Repository Structure
 
 📦 customer-segmentation-keras
+
 ├── data/
 
 │ └── Mall_Customers.csv # Dataset used for training/testing
