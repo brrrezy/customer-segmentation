@@ -12,10 +12,17 @@ Customer segmentation is a key marketing strategy that enables personalized enga
 
 📦 customer-segmentation-keras
 ├── data/
+
 │ └── Mall_Customers.csv # Dataset used for training/testing
+
 ├── notebooks/
+
 │ └── segmentation.ipynbb # EDA and visualization
+
 ├── model/
+
 │ └── keras_model.h5 # Trained Keras model
+
 ├── Customer segmentation.ipynb # Model architecture and training
+
 ├── README.md # You're here!
